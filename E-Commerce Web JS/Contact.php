@@ -1,3 +1,4 @@
+//** This ia a contact php **//
 <?php
 // Database connection details
 $host = 'localhost';        // XAMPP uses localhost for MySQL
