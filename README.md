@@ -15,7 +15,7 @@ SneakNation is a modern, responsive website designed to highlight premium sneake
 ## 📌 Features
 - ✅ Responsive design for mobile and desktop
 - ✅ Sneaker release calendar and product highlights
-- ✅ Community reviews and testimonials
+- ✅ Sign up form
 - ✅ Contact form
 - ✅ 'Read Aloud' button for accessibility
 
@@ -37,7 +37,7 @@ SneakNation/
 ## 📖 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jatana1/SneakNation.git
+   git clone https://github.com/NaditS
    ```
 2. Open the project folder in **Visual Studio**.
 3. Open `index.html` in your browser to view the website.
@@ -46,9 +46,9 @@ SneakNation/
 Contributions are welcome! Feel free to submit pull requests or open issues to suggest improvements.
 
 ## 📩 Contact
-For any questions or feedback, reach out via **[your email/contact info]**.
+For any questions or feedback, reach out via **[nadits007gmail.com]**.
 
-🔗 **GitHub Repository:** [SneakNation](https://github.com/Jatana1/SneakNation)
+🔗 **GitHub Repository:** [SneakNation](https://github.com/NaditS)
 
 ---
 👟🔥 _SneakNation - Where sneakers meet culture!_
