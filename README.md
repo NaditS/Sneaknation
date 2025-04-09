@@ -1,26 +1,29 @@
-SneakNation
+# SneakNation
 
-Welcome to the SneakNation project! This repository contains the front-end code for a sneaker e-commerce website, designed to provide a seamless shopping experience for sneaker enthusiasts.
-🚀 Project Overview
-SneakNation is a modern, responsive website dedicated to showcasing the latest sneaker collections, limited-edition releases, and customer reviews. The project is built using HTML, CSS, and JavaScript, with Bootstrap for styling and responsiveness.
+Welcome to the **SneakNation** project! This repository contains the front-end code for the SneakNation website, which showcases exclusive sneakers, drops, and community features.
 
-🛠 Technologies Used
-HTML5: Structuring the web pages
-CSS3: Styling and layout
-JavaScript: Interactive elements
-Visual Studio: Development environment
+## 🚀 Project Overview
+SneakNation is a modern, responsive website designed to highlight premium sneakers, upcoming releases, and sneakerhead community insights. The project is built using **HTML, CSS, and JavaScript**, with **Bootstrap** for styling and responsiveness.
 
-📌 Features
-✅ Sneaker product listings with detailed descriptions
-✅ About us page
-✅ Signup form for updates
-✅ Shop page with all the shopping information
-✅ Contact form for inquiries
+## 🛠 Technologies Used
+- **HTML5**: Structuring the web pages
+- **CSS3**: Styling and layout
+- **JavaScript**: Interactive elements
+- **Bootstrap**: Responsive design framework
+- **Visual Studio**: Development environment
 
-📂 Project Structure
+## 📌 Features
+- ✅ Responsive design for mobile and desktop
+- ✅ Sneaker release calendar and product highlights
+- ✅ Community reviews and testimonials
+- ✅ Contact form
+- ✅ 'Read Aloud' button for accessibility
+
+## 📂 Project Structure
+```
 SneakNation/
 │── index.html       # Home Page
-│── shop.html        # Shop Page
+│── releases.html    # Sneaker Releases Page
 │── contact.html     # Contact Page
 │── assets/
 │   ├── css/
@@ -29,3 +32,24 @@ SneakNation/
 │   │   ├── script.js    # JavaScript Functions
 │   ├── images/         # Image Assets
 └── README.md        # Project Documentation
+```
+
+## 📖 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jatana1/SneakNation.git
+   ```
+2. Open the project folder in **Visual Studio**.
+3. Open `index.html` in your browser to view the website.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit pull requests or open issues to suggest improvements.
+
+## 📩 Contact
+For any questions or feedback, reach out via **[your email/contact info]**.
+
+🔗 **GitHub Repository:** [SneakNation](https://github.com/Jatana1/SneakNation)
+
+---
+👟🔥 _SneakNation - Where sneakers meet culture!_
+
