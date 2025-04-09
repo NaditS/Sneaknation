@@ -1,3 +1,4 @@
+//** This is a Captcha **//
 let captchaCode = "";
 
 // Function to generate a random CAPTCHA
