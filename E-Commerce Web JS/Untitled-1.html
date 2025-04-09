@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Form</title>
+  <style>
+    
+  </style>
+</head>
+<body>
+
+  <form id="contactForm">
+    <div class="form">
+      <h1>Connect with Us. Fill Form</h1>
+      <input type="text" name="name" placeholder="Enter Your FirstName" required><br>
+      <input type="text" name="lastname" placeholder="Enter Your LastName" required><br>
+      <input type="email" name="email" placeholder="Enter Your Email" required><br>
+      <input type="text" name="phone" placeholder="Enter Your Number" required><br>
+      <input type="text" name="address" placeholder="Enter Your Address" required><br>
+      <button type="submit">Submit</button>
+    </div>
+  </form>
+
+  <script>
+    document.getElementById("contactForm").addEventListener("submit", function(event) {
+      event.preventDefault(); // Prevent form from reloading the page
+
+      const formData = new FormData(this);
+      const data = Object.fromEntries(formData.entries());
+
+      alert("Form submitted!\n\n" + JSON.stringify(data, null, 2));
+
+      // Optionally reset the form
+      this.reset();
+    });
+  </script>
+
+</body>
+</html>
